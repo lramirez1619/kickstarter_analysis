@@ -9,10 +9,10 @@ To determine if any correlation exists between campaign outcomes based on their 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![ Theater Outcomes by Launch Date](/Resources/ Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes by Launch Date](/Resources/ Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![ Outcomes Based on Goals](/Resources/ Outcomes Based on Goals.png)
+![Outcomes Based on Goals](/Resources/ Outcomes Based on Goals.png)
 
 ### Challenges and Difficulties Encountered
 A few challenges and difficulties encountered includes correctly utilizing countifs formula (with greater than, less than, and equal signs) and not factoring plays as a sub-category in addition to dollar goals and outcomes. It was also a challenge that when the pivot chart was created, the amount goals was not in the same order as illustrated. All were challenging but the Learning Assistant team was stupendous in helping identify errors.
