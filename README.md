@@ -15,7 +15,7 @@ To determine if any correlation exists between campaign outcomes based on their 
 ![Outcomes Based on Goals](https://github.com/lramirez1619/module-1-kickstarter-analysis/blob/fe3c58bc7b30099494ce59b23dfe4457d4a64cc0/Resources/Outcomes%20Based%20on%20Goals.png)
 
 ### Challenges and Difficulties Encountered
-A few challenges and difficulties encountered includes correctly utilizing countifs formula (with greater than, less than, and equal signs) and not factoring plays as a sub-category in addition to dollar goals and outcomes. It was also a challenge that when the pivot chart was created, the amount goals was not in the same order as illustrated. All were challenging but the Learning Assistant team was stupendous in explaining and helping identify errors.
+A few challenges and difficulties encountered includes correctly utilizing countifs formula (with greater than, less than, and equal signs) and not factoring plays as a sub-category in addition to dollar goals and outcomes. It was also a challenge that when the pivot chart was created, the amount goals was not in the same order as illustrated. All were challenging but the Learning Assistant team stupendously explained and helped identify errors.
 
 ## Results
 
