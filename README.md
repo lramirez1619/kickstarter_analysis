@@ -15,7 +15,7 @@ To determine if any correlation exists between campaign outcomes based on their 
 ![Outcomes Based on Goals](https://github.com/lramirez1619/module-1-kickstarter-analysis/blob/fe3c58bc7b30099494ce59b23dfe4457d4a64cc0/Resources/Outcomes%20Based%20on%20Goals.png)
 
 ### Challenges and Difficulties Encountered
-A few challenges and difficulties encountered includes correctly utilizing countifs formula (with greater than, less than, and equal signs) and not factoring plays as a sub-category in addition to dollar goals and outcomes. It was also a challenge that when the pivot chart was created, the amount goals was not in the same order as illustrated. All were challenging but the Learning Assistant team was stupendous in helping identify errors.
+A few challenges and difficulties encountered includes correctly utilizing countifs formula (with greater than, less than, and equal signs) and not factoring plays as a sub-category in addition to dollar goals and outcomes. It was also a challenge that when the pivot chart was created, the amount goals was not in the same order as illustrated. All were challenging but the Learning Assistant team was stupendous in explaining and helping identify errors.
 
 ## Results
 
@@ -24,11 +24,12 @@ A few challenges and difficulties encountered includes correctly utilizing count
 	- Even though a steady decline of success was experienced, the months of May to September is the best timeframe to launch.
 
 - What can you conclude about the Outcomes based on Goals?
-	- There is an inverse correlation between successful and failed outcomes based on amount goals. There is a chance of 50% success and 505 failure for the amount goal 15000 to 19999.
+	- There is an inverse correlation between successful and failed outcomes based on amount goals. There is a chance of 50% success and 50% failure for the amount goal 15000 to 19999.
 
 - What are some limitations of this dataset?
-	- The Theater Outcomes by Launch Date only has data for the last three years (2014, 2015, 2016). Considering that the economy has severely shifted since 2016, this data may no longer depict the current population. 
-	- The data was also pulled from 19 different countries, with no identifier what part of each country. Socioeconomic status and population density were never factored. Campaign efforts in the sub-burbs of Ohio will not generate the same goals as downtown Manhattan.
+	- The Theater Outcomes by Launch Date only has data for the last three years (2014, 2015, 2016). Considering that the economy has shifted since 2016, this data may no longer depict the current population. 
+	- The data was also pulled from 19 different countries, with no specific identifier what part of each country. 
 
 - What are some other possible tables and/or graphs that we could create?
-	- A clustered column would have been helpful in visiuly identifying 
+	- For Theater Outcomes by Launch Date, a cluster column and sorted by descending of success.  This will illustrate that in addition to May to September, February and April are also strong months to launch. However, I would still like to see additional years of data. 
+	- For Outcomes Based on Goals, a cluster column and sorted by descending of percent of success. This will illustrate those goals of < 1000, 1000 to 4999, 40000 to 44999, and 35000 to 39999 have a 67% or higher success rate with only 33% or lower failed rate
