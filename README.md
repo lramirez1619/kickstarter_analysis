@@ -31,3 +31,4 @@ A few challenges and difficulties encountered includes correctly utilizing count
 	- The data was also pulled from 19 different countries, with no identifier what part of each country. Socioeconomic status and population density were never factored. Campaign efforts in the sub-burbs of Ohio will not generate the same goals as downtown Manhattan.
 
 - What are some other possible tables and/or graphs that we could create?
+	- A clustered column would have been helpful in visiuly identifying 
